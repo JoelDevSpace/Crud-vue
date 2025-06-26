@@ -8,14 +8,15 @@ https://www.youtube.com/@savanihd
 
 Un grand merci à lui
 
-## liens des ressources
+## liens des ressources et étapes
 
 1- La video Youtube : https://www.youtube.com/watch?v=iLmq2zpfRI4&t=124s
-2-
+2- la video Youtube : https://www.youtube.com/watch?v=mRyHhb6YlkA&t=166s
 
 ## Voici les chapitres traités (les commit suivent l'ordre des leçons)
 
 1- Vue et Inertia CRUD avec kit de démarrage
+2- Ajout de Spatie Role and permission
 
 ## License
 
