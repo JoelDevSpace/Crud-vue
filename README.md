@@ -3,7 +3,6 @@
 ## Formation Laravel
 
 Projet sui suit la formation Laravel 12 Vue et Inertia CRUD avec kit de démarrage de Hardik Savani(ItSolutionStuff)
-Disponible sur sa chaine Youtube et son site https://www.apprendre-laravel-12.net/
 
 https://www.youtube.com/@savanihd
 
